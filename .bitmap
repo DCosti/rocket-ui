@@ -13,67 +13,133 @@
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Tooltip"
+        "rootDir": "components/dataDisplay/Tooltip",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "components/data-display/typography": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Typography"
+        "rootDir": "components/dataDisplay/Typography",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "images/logo": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "assets/logo"
+        "rootDir": "assets/logo",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "jss/styles": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "assets/styles"
+        "rootDir": "assets/styles",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/blue": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/blue"
+        "rootDir": "themes/blue",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/default": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/default"
+        "rootDir": "themes/default",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/green": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/green"
+        "rootDir": "themes/green",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/light-blue": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/lightBlue"
+        "rootDir": "themes/lightBlue",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/orange": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/orange"
+        "rootDir": "themes/orange",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/red": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/red"
+        "rootDir": "themes/red",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "themes/vivid-orange": {
         "scope": "",
         "version": "",
         "mainFile": "index.js",
-        "rootDir": "themes/vividOrange"
+        "rootDir": "themes/vividOrange",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "$schema-version": "14.9.0"
 }
