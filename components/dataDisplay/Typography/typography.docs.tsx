@@ -9,7 +9,7 @@ export const examples = [
     scope: {
       Typography,
     },
-    title: "Example",
+    title: "Live Example",
     description: "A basic usage of Typography component",
     code: `<Typography>Text to be displayed</Typography>`,
   },

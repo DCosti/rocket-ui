@@ -12,7 +12,7 @@ export const examples = [
       Tooltip,
       Typography,
     },
-    title: "Example",
+    title: "Live Example",
     description: "A basic usage of Tooltip component",
     code: `<Typography tooltip='Example of using tooltip'>Hover on me to see the magic</Typography>`,
   },
