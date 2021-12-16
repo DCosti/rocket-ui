@@ -10,16 +10,10 @@
 
 {
     "components/data-display/expanding-text": {
-        "scope": "",
-        "version": "",
+        "scope": "totalsoft_oss.rocket-ui",
+        "version": "0.0.1",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/ExpandingText",
-        "nextVersion": {
-            "version": "patch",
-            "message": "",
-            "username": "Costinel Diaconita",
-            "email": "cdiaconita@totalsoft.ro"
-        }
+        "rootDir": "components/dataDisplay/ExpandingText"
     },
     "components/data-display/tooltip": {
         "scope": "totalsoft_oss.rocket-ui",
