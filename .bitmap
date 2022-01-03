@@ -17,27 +17,15 @@
     },
     "components/data-display/tooltip": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Tooltip",
-        "nextVersion": {
-            "version": "patch",
-            "message": " (bump dependencies versions)",
-            "username": "Costinel Diaconita",
-            "email": "cdiaconita@totalsoft.ro"
-        }
+        "rootDir": "components/dataDisplay/Tooltip"
     },
     "components/data-display/typography": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Typography",
-        "nextVersion": {
-            "version": "patch",
-            "message": "",
-            "username": "Costinel Diaconita",
-            "email": "cdiaconita@totalsoft.ro"
-        }
+        "rootDir": "components/dataDisplay/Typography"
     },
     "images/logo": {
         "scope": "totalsoft_oss.rocket-ui",
