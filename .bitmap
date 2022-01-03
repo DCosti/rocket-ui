@@ -19,13 +19,25 @@
         "scope": "totalsoft_oss.rocket-ui",
         "version": "0.0.1",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Tooltip"
+        "rootDir": "components/dataDisplay/Tooltip",
+        "nextVersion": {
+            "version": "patch",
+            "message": " (bump dependencies versions)",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "components/data-display/typography": {
         "scope": "totalsoft_oss.rocket-ui",
         "version": "0.0.1",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Typography"
+        "rootDir": "components/dataDisplay/Typography",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Costinel Diaconita",
+            "email": "cdiaconita@totalsoft.ro"
+        }
     },
     "images/logo": {
         "scope": "totalsoft_oss.rocket-ui",
