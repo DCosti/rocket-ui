@@ -3,83 +3,83 @@
 /**
  * The Bitmap file is an auto generated file used by Bit to track all your Bit components. It maps the component to a folder in your file system.
  * This file should be committed to VCS(version control).
- * Components are listed using their component ID (https://harmony-docs.bit.dev/aspects/component/#component-id).
+ * Components are listed using their component ID (https://bit.dev/docs/components/component-id).
  * If you want to delete components you can use the "bit remove <component-id>" command.
- * See the docs (https://harmony-docs.bit.dev/building-with-bit/removing-components) for more information, or use "bit remove --help".
+ * See the docs (https://bit.dev/docs/components/removing-components) for more information, or use "bit remove --help".
  */
 
 {
-    "components/data-display/expanding-text": {
+    "components/buttons/button": {
+        "scope": "totalsoft_oss.rocket-ui",
+        "version": "0.0.9",
+        "mainFile": "index.js",
+        "rootDir": "rocket-ui/components/buttons/button"
+    },
+    "components/buttons/icon-button": {
         "scope": "totalsoft_oss.rocket-ui",
         "version": "0.0.1",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/ExpandingText"
+        "rootDir": "rocket-ui/components/buttons/icon-button"
     },
-    "components/data-display/tooltip": {
-        "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.2",
+    "components/buttons/upload-button": {
+        "scope": "",
+        "version": "",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Tooltip"
+        "rootDir": "rocket-ui/components/buttons/upload-button"
+    },
+    "components/data-display/expanding-text": {
+        "scope": "totalsoft_oss.rocket-ui",
+        "version": "0.0.11",
+        "mainFile": "index.js",
+        "rootDir": "rocket-ui/components/data-display/expanding-text"
     },
     "components/data-display/typography": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.2",
+        "version": "0.0.16",
         "mainFile": "index.js",
-        "rootDir": "components/dataDisplay/Typography"
+        "rootDir": "rocket-ui/components/data-display/typography"
     },
-    "images/logo": {
+    "components/surfaces/card": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.17",
         "mainFile": "index.js",
-        "rootDir": "assets/logo"
+        "rootDir": "rocket-ui/components/surfaces/card"
     },
-    "jss/styles": {
+    "components/surfaces/card-actions": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.15",
         "mainFile": "index.js",
-        "rootDir": "assets/styles"
+        "rootDir": "rocket-ui/components/surfaces/card-actions"
     },
-    "themes/blue": {
+    "components/surfaces/card-header": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.15",
         "mainFile": "index.js",
-        "rootDir": "themes/blue"
+        "rootDir": "rocket-ui/components/surfaces/card-header"
     },
-    "themes/default": {
+    "envs/my-env": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
-        "mainFile": "index.js",
-        "rootDir": "themes/default"
+        "version": "0.0.13",
+        "mainFile": "index.ts",
+        "rootDir": "rocket-ui/envs/my-env"
     },
-    "themes/green": {
+    "providers/theme": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.7",
         "mainFile": "index.js",
-        "rootDir": "themes/green"
+        "rootDir": "rocket-ui/providers/theme"
     },
-    "themes/light-blue": {
+    "themes": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.10",
         "mainFile": "index.js",
-        "rootDir": "themes/lightBlue"
+        "rootDir": "rocket-ui/themes"
     },
-    "themes/orange": {
+    "utils/test-wrapper": {
         "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
+        "version": "0.0.11",
         "mainFile": "index.js",
-        "rootDir": "themes/orange"
-    },
-    "themes/red": {
-        "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
-        "mainFile": "index.js",
-        "rootDir": "themes/red"
-    },
-    "themes/vivid-orange": {
-        "scope": "totalsoft_oss.rocket-ui",
-        "version": "0.0.1",
-        "mainFile": "index.js",
-        "rootDir": "themes/vividOrange"
+        "rootDir": "rocket-ui/utils/test-wrapper"
     },
     "$schema-version": "14.9.0"
 }
